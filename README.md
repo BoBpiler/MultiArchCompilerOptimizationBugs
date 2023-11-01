@@ -12,3 +12,14 @@
 |  | mips64el | 부정확한 최적화 연산 | 25 | [BVE-25](https://github.com/llvm/llvm-project/issues/69328) | Open |
 |  | mips64 | 부정확한 최적화 연산 | 27 | [BVE-27](https://github.com/llvm/llvm-project/issues/70495) | Open |
 | gcc | s390x | 잘못된 코드 생성 | 28, 29 | [BVE-28](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=112112), [BVE-29](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=112274) | Open |
+
+
+
+| 컴파일러 | 아키텍처 | 버그 유형 |
+| --- | --- | --- |
+| MSVC | x86-64 | [컴파일러 크래시](https://developercommunity.visualstudio.com/t/Internal-Compiler-Error-with-for-loop-an/10486573), [컴파일러 크래시](https://developercommunity.visualstudio.com/t/fatal-error-C1001:-Internal-Compiler-Err/10485991?sort=newest), [부정확한 최적화 연산](https://developercommunity.visualstudio.com/t/O2-and-Ox-Optimizations-Result-in-Incorr/10476654?sort=newest), [부정확한 최적화 연산](https://developercommunity.visualstudio.com/t/Comparison-of-incorrect-register-values/10480763?sort=newest), [다른 변수 주소 동일 인식](https://developercommunity.visualstudio.com/t/Bugs-that-recognize-the-same-address-val/10484681?sort=newest), [무한 루프](https://developercommunity.visualstudio.com/t/Optimization-Levels-O1-O2-Ox-Incorrect/10478781?sort=newest), [상수의 부정확한 계산 및 비교](https://developercommunity.visualstudio.com/t/Incorrectly-compiled-comparison-and-cons/10480723?sort=newest), [부호 확장 문제](https://developercommunity.visualstudio.com/t/Incorrect-unsigned-extension-when-upcast/10481317?sort=newest), [부호 확장 문제](https://developercommunity.visualstudio.com/t/Impact-of-printf-on-CL-Compiler-Optimiza/10481033?sort=newest), [부호 확장 문제](https://developercommunity.visualstudio.com/t/cl-Compiler-Misinterprets-Hexadecimal-Li/10483175), [지역 변수의 스택 초기화 누락](https://developercommunity.visualstudio.com/t/Function-pointer-address-comparison-erro/10485960?sort=newest) |
+| llvm | riscv | [부호 확장 문제](https://github.com/llvm/llvm-project/issues/68855) |
+|  | arm64 | [포인터 역참조 생략](https://github.com/llvm/llvm-project/issues/69294) |
+|  | mips64el | [부정확한 최적화 연산](https://github.com/llvm/llvm-project/issues/69328) |
+|  | mips64 | [부정확한 최적화 연산](https://github.com/llvm/llvm-project/issues/70495) |
+| gcc | s390x | [잘못된 코드 생성](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=112112), [잘못된 코드 생성](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=112274) |
