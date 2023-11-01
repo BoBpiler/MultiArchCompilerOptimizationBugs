@@ -7,7 +7,7 @@
 | MSVC | x86-64 | 컴파일러 크래시 | https://developercommunity.visualstudio.com/t/fatal-error-C1001:-Internal-Compiler-Err/10485991?sort=newest |
 | MSVC | x86-64 | 부정확한 최적화 연산 | https://developercommunity.visualstudio.com/t/O2-and-Ox-Optimizations-Result-in-Incorr/10476654?sort=newest |
 | MSVC | x86-64 | 부정확한 최적화 연산 | https://developercommunity.visualstudio.com/t/Comparison-of-incorrect-register-values/10480763?sort=newest |
-| MSVC | x86-64 | 다른 변수 주소 동일 인식 | https://developercommunity.visualstudio.com/t/Bugs-that-recognize-the-same-address-val/10484681?sort=newest |
+| MSVC | x86-64 | 다른 변수 주소 동일 인식 | https://developercommunity.visualstudio.com/t/Memory-reference-error-due-to-excessive/10477735?sort=newest&page=1 |
 | MSVC | x86-64 | 무한 루프 | https://developercommunity.visualstudio.com/t/Optimization-Levels-O1-O2-Ox-Incorrect/10478781?sort=newest |
 | MSVC | x86-64 | 상수의 부정확한 계산 및 비교 | https://developercommunity.visualstudio.com/t/Incorrectly-compiled-comparison-and-cons/10480723?sort=newest |
 | MSVC | x86-64 | 부호 확장 문제 | https://developercommunity.visualstudio.com/t/Incorrect-unsigned-extension-when-upcast/10481317?sort=newest |
