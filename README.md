@@ -12,7 +12,7 @@
 | MSVC | x86-64 | 상수의 부정확한 계산 및 비교 | https://developercommunity.visualstudio.com/t/Incorrectly-compiled-comparison-and-cons/10480723?sort=newest |
 | MSVC | x86-64 | 부호 확장 문제 | https://developercommunity.visualstudio.com/t/Incorrect-unsigned-extension-when-upcast/10481317?sort=newest |
 | MSVC | x86-64 | 부호 확장 문제 | https://developercommunity.visualstudio.com/t/Impact-of-printf-on-CL-Compiler-Optimiza/10481033?sort=newest |
-| MSVC | x86-64 | 부호 확장 문제 | https://developercommunity.visualstudio.com/t/cl-Compiler-Misinterprets-Hexadecimal-Li/10483175 |
+| MSVC | x86-64 | 16진수 상수 리터럴 c 표준 미준수 | https://developercommunity.visualstudio.com/t/cl-Compiler-Misinterprets-Hexadecimal-Li/10483175 |
 | MSVC | x86-64 | 지역 변수의 스택 초기화 누락 | https://developercommunity.visualstudio.com/t/Function-pointer-address-comparison-erro/10485960?sort=newest |
 | llvm | riscv | 부호 확장 문제 | https://github.com/llvm/llvm-project/issues/68855 |
 | llvm | arm64 | 포인터 역참조 생략 | https://github.com/llvm/llvm-project/issues/69294 |
